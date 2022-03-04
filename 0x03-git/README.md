@@ -1,1 +1,1 @@
-#!/bin/bash Updating my alx-zero_day README.MD file
+Updating my alx-zero_day README.MD file
